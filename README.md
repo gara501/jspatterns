@@ -1,0 +1,2 @@
+# jspatterns
+Basic application development
