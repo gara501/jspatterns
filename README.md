@@ -16,4 +16,4 @@ Basic application development
 
 ## Running the project
 
-1. Run `gulp serve` from the jspatterns repo directory (the app will be opened in your default browser when command finishes and any file changes will be refresh it automatically).
+1. Run `gulp serve` from the jspatterns repo directory (the app will open in your default browser when the command finishes and any file changes will refresh it automatically).
